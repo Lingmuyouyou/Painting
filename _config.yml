@@ -8,7 +8,7 @@ subtitle: My Personal Paintings
 description: This is a personal Blog, I will share my works in this website.
 keywords: painting
 author: 羚木悠悠
-language: zh-CN
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
@@ -99,5 +99,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:Lingmuyouyou/Lingmuyouyou.github.io.git
+  repo: https://github.com/Lingmuyouyou/Lingmuyouyou.github.io.git
   branch: master
